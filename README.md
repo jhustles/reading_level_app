@@ -30,7 +30,7 @@ You will need the following installed on your computer system and import the fol
 
 ## Output Examples - Before And With Filters
 
-![sample_results](./filter/images/test_results.png)
+![sample_results](.images/test_results.png)
 
 
 ### Personal Note
